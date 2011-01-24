@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="Card_select.cpp" open="0" top="0" tabpos="8">
+		<Cursor position="13660" topLine="257" />
+	</File>
+	<File name="Card_select.h" open="0" top="0" tabpos="9">
+		<Cursor position="509" topLine="3" />
+	</File>
+	<File name="Game.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="25119" topLine="799" />
+	</File>
+	<File name="Game.h" open="1" top="0" tabpos="6">
+		<Cursor position="474" topLine="12" />
+	</File>
+	<File name="Graph_FX.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="5954" topLine="175" />
+	</File>
+	<File name="Graph_FX.h" open="1" top="0" tabpos="5">
+		<Cursor position="1811" topLine="12" />
+	</File>
+	<File name="Intro.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="4124" topLine="141" />
+	</File>
+	<File name="Intro.h" open="1" top="0" tabpos="10">
+		<Cursor position="50" topLine="0" />
+	</File>
+	<File name="./Magazine.cpp" open="1" top="1" tabpos="12">
+		<Cursor position="1404" topLine="66" />
+	</File>
+	<File name="Player.h" open="0" top="0" tabpos="7">
+		<Cursor position="266" topLine="0" />
+	</File>
+	<File name="SoundSystem.cpp" open="1" top="0" tabpos="9">
+		<Cursor position="2583" topLine="131" />
+	</File>
+	<File name="SoundSystem.h" open="1" top="0" tabpos="11">
+		<Cursor position="101" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="8">
+		<Cursor position="317" topLine="9" />
+	</File>
+	<File name="res.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="5943" topLine="137" />
+	</File>
+	<File name="res.h" open="1" top="0" tabpos="4">
+		<Cursor position="3484" topLine="364" />
+	</File>
+	<File name="system.cpp" open="0" top="0" tabpos="10">
+		<Cursor position="518" topLine="0" />
+	</File>
+	<File name="system.h" open="0" top="0" tabpos="13">
+		<Cursor position="42" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

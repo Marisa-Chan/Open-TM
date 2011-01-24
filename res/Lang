@@ -1,0 +1,64 @@
+Select the enemy.
+Cards
+Shop
+Load
+Save
+Delete
+Exit
+Are you sure?
+Cancel
+Yes
+No
+Play again?
+Name:%s
+Gil:%d
+Level:%d
+Date: %s
+Time:%s
+Empty Block.
+FILE %.2d
+Enter Password
+Incorrect
+Rewrite File?
+Delete File?
+Received %s
+In all: %s
+Confirm choice?
+Experience:
+Do you want to sell for %d?
+Beginner
+Novice
+Player
+Senior
+Fan
+Leader
+Coach
+Advisor
+Director
+Dealer
+Trader
+Commander
+Doctor
+Professor
+Veteran
+Freak
+Champion
+Analyst
+General
+Expert
+Shark
+Specialist
+Elder
+Dominator
+Maestro
+King
+Wizard
+Authority
+Emperor
+Pro
+Master
+Do you want to buy: %s?
+Enter password:
+Enter name:
+Back
+Create

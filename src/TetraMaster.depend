@@ -1,0 +1,301 @@
+# depslib dependency file v1.0
+1269179834 source:/home/zidane/Projects/TetraMaster/main.cpp
+	<cstdlib>
+	<stdlib.h>
+	"res.h"
+
+1269960170 /home/zidane/Projects/TetraMaster/res.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_rotozoom.h>
+	<SDL/SDL_audio.h>
+	<SDL/SDL_mixer.h>
+	<SDL/SDL_gfxPrimitives.h>
+	<stdlib.h>
+	<strings.h>
+	<inttypes.h>
+	<time.h>
+	<math.h>
+	<vector>
+	<string>
+	<sys/file.h>
+	"Player.h"
+	"system.h"
+	"Graph_FX.h"
+	"FontSystem.h"
+	"Lang.h"
+	"Enemies.h"
+	"Game.h"
+	"SoundSystem.h"
+	"Card_select.h"
+	"Intro.h"
+	"new_player.h"
+	"LoadSave.h"
+	"Magazine.h"
+
+1269960551 source:/home/zidane/Projects/TetraMaster/res.cpp
+	"res.h"
+
+1268416328 /home/zidane/Projects/TetraMaster/FontSystem.h
+
+1269060889 source:/home/zidane/Projects/TetraMaster/FontSystem.cpp
+	"res.h"
+	<iconv.h>
+
+1269159501 /home/zidane/Projects/TetraMaster/Graph_FX.h
+
+1269159371 source:/home/zidane/Projects/TetraMaster/Graph_FX.cpp
+	"res.h"
+
+1269060889 source:/home/marisa/work/TetraMaster/FontSystem.cpp
+	"res.h"
+	<iconv.h>
+
+1270703588 /home/marisa/work/TetraMaster/res.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_rotozoom.h>
+	<SDL/SDL_audio.h>
+	<SDL/SDL_mixer.h>
+	<SDL/SDL_gfxPrimitives.h>
+	<stdlib.h>
+	<strings.h>
+	<inttypes.h>
+	<time.h>
+	<math.h>
+	<vector>
+	<string>
+	<sys/file.h>
+	"Player.h"
+	"system.h"
+	"Graph_FX.h"
+	"FontSystem.h"
+	"Lang.h"
+	"Enemies.h"
+	"Game.h"
+	"SoundSystem.h"
+	"Card_select.h"
+	"Intro.h"
+	"new_player.h"
+	"LoadSave.h"
+	"Magazine.h"
+
+1269159501 /home/marisa/work/TetraMaster/Graph_FX.h
+
+1268416328 /home/marisa/work/TetraMaster/FontSystem.h
+
+1271395415 source:/home/marisa/work/TetraMaster/Graph_FX.cpp
+	"res.h"
+
+1271395200 source:/home/marisa/work/TetraMaster/main.cpp
+	<cstdlib>
+	<stdlib.h>
+	"res.h"
+
+1270702508 source:/home/marisa/work/TetraMaster/res.cpp
+	"res.h"
+
+1269961815 source:/home/zidane/Projects/TetraMaster/Game.cpp
+	"res.h"
+	<vector>
+
+1269174828 /home/zidane/Projects/TetraMaster/Game.h
+
+1264761582 /home/zidane/Projects/TetraMaster/system.h
+
+1269175252 source:/home/zidane/Projects/TetraMaster/system.cpp
+	"res.h"
+
+1264761582 /home/marisa/work/TetraMaster/system.h
+
+1271912800 /home/marisa/work/TetraMaster/Game.h
+
+1271913802 source:/home/marisa/work/TetraMaster/Game.cpp
+	"res.h"
+	<vector>
+
+1269175252 source:/home/marisa/work/TetraMaster/system.cpp
+	"res.h"
+
+1271223753 /home/marisa/work/TetraMaster/SoundSystem.h
+
+1264761580 /home/zidane/Projects/TetraMaster/SoundSystem.h
+
+1264761580 source:/home/zidane/Projects/TetraMaster/SoundSystem.cpp
+	"res.h"
+
+1271223760 source:/home/marisa/work/TetraMaster/SoundSystem.cpp
+	"res.h"
+
+1270012051 /home/marisa/work/TetraMaster/Card_select.h
+
+1269182165 source:/home/zidane/Projects/TetraMaster/Card_select.cpp
+	"res.h"
+
+1269056678 /home/zidane/Projects/TetraMaster/Card_select.h
+
+1271394954 source:/home/marisa/work/TetraMaster/Card_select.cpp
+	"res.h"
+
+1265272738 /home/marisa/work/TetraMaster/Intro.h
+
+1271913992 source:/home/marisa/work/TetraMaster/Intro.cpp
+	"res.h"
+
+1267420950 /home/marisa/work/TetraMaster/new_player.h
+
+1265272738 /home/zidane/Projects/TetraMaster/Intro.h
+
+1267420950 /home/zidane/Projects/TetraMaster/new_player.h
+
+1265274672 source:/home/zidane/Projects/TetraMaster/Intro.cpp
+	"res.h"
+
+1269053992 source:/home/zidane/Projects/TetraMaster/new_player.cpp
+	"res.h"
+
+1269149547 /home/zidane/Projects/TetraMaster/Player.h
+
+1269149547 /home/marisa/work/TetraMaster/Player.h
+
+1271144121 /home/marisa/work/TetraMaster/Enemies.h
+
+1271835993 source:/home/marisa/work/TetraMaster/new_player.cpp
+	"res.h"
+
+1271137003 source:/home/marisa/work/TetraMaster/Enemies.cpp
+	"res.h"
+
+1269149594 /home/zidane/Projects/TetraMaster/Enemies.h
+
+1269181396 source:/home/zidane/Projects/TetraMaster/Enemies.cpp
+	"res.h"
+
+1268670700 source:/home/zidane/Projects/TetraMaster/Magazine.cpp
+	"res.h"
+
+1268416490 /home/zidane/Projects/TetraMaster/Magazine.h
+
+1269955520 source:/home/zidane/Projects/TetraMaster/Lang.cpp
+	"res.h"
+
+1268660798 /home/zidane/Projects/TetraMaster/Lang.h
+
+1269179808 source:/home/zidane/Projects/TetraMaster/LoadSave.cpp
+	"res.h"
+
+1269056830 /home/zidane/Projects/TetraMaster/LoadSave.h
+
+1268660798 /home/marisa/work/TetraMaster/Lang.h
+
+1270715220 /home/marisa/work/TetraMaster/LoadSave.h
+
+1270011778 /home/marisa/work/TetraMaster/Magazine.h
+
+1271215987 source:/home/marisa/work/TetraMaster/Lang.cpp
+	"res.h"
+
+1272009116 source:/home/marisa/work/TetraMaster/LoadSave.cpp
+	"res.h"
+
+1271395161 source:/home/marisa/work/TetraMaster/Magazine.cpp
+	"res.h"
+
+1271394954 source:/home/marisa/work/TetraMaster/src/Card_select.cpp
+	"res.h"
+
+1270703588 /home/marisa/work/TetraMaster/src/res.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_rotozoom.h>
+	<SDL/SDL_audio.h>
+	<SDL/SDL_mixer.h>
+	<SDL/SDL_gfxPrimitives.h>
+	<stdlib.h>
+	<strings.h>
+	<inttypes.h>
+	<time.h>
+	<math.h>
+	<vector>
+	<string>
+	<sys/file.h>
+	"Player.h"
+	"system.h"
+	"Graph_FX.h"
+	"FontSystem.h"
+	"Lang.h"
+	"Enemies.h"
+	"Game.h"
+	"SoundSystem.h"
+	"Card_select.h"
+	"Intro.h"
+	"new_player.h"
+	"LoadSave.h"
+	"Magazine.h"
+
+1269149547 /home/marisa/work/TetraMaster/src/Player.h
+
+1264761582 /home/marisa/work/TetraMaster/src/system.h
+
+1269159501 /home/marisa/work/TetraMaster/src/Graph_FX.h
+
+1268416328 /home/marisa/work/TetraMaster/src/FontSystem.h
+
+1268660798 /home/marisa/work/TetraMaster/src/Lang.h
+
+1271144121 /home/marisa/work/TetraMaster/src/Enemies.h
+
+1271912800 /home/marisa/work/TetraMaster/src/Game.h
+
+1271223753 /home/marisa/work/TetraMaster/src/SoundSystem.h
+
+1270012051 /home/marisa/work/TetraMaster/src/Card_select.h
+
+1265272738 /home/marisa/work/TetraMaster/src/Intro.h
+
+1267420950 /home/marisa/work/TetraMaster/src/new_player.h
+
+1270715220 /home/marisa/work/TetraMaster/src/LoadSave.h
+
+1270011778 /home/marisa/work/TetraMaster/src/Magazine.h
+
+1271137003 source:/home/marisa/work/TetraMaster/src/Enemies.cpp
+	"res.h"
+
+1269060889 source:/home/marisa/work/TetraMaster/src/FontSystem.cpp
+	"res.h"
+	<iconv.h>
+
+1271913802 source:/home/marisa/work/TetraMaster/src/Game.cpp
+	"res.h"
+	<vector>
+
+1271395415 source:/home/marisa/work/TetraMaster/src/Graph_FX.cpp
+	"res.h"
+
+1271913992 source:/home/marisa/work/TetraMaster/src/Intro.cpp
+	"res.h"
+
+1271215987 source:/home/marisa/work/TetraMaster/src/Lang.cpp
+	"res.h"
+
+1272009116 source:/home/marisa/work/TetraMaster/src/LoadSave.cpp
+	"res.h"
+
+1271223760 source:/home/marisa/work/TetraMaster/src/SoundSystem.cpp
+	"res.h"
+
+1271395200 source:/home/marisa/work/TetraMaster/src/main.cpp
+	<cstdlib>
+	<stdlib.h>
+	"res.h"
+
+1271835993 source:/home/marisa/work/TetraMaster/src/new_player.cpp
+	"res.h"
+
+1270702508 source:/home/marisa/work/TetraMaster/src/res.cpp
+	"res.h"
+
+1269175252 source:/home/marisa/work/TetraMaster/src/system.cpp
+	"res.h"
+

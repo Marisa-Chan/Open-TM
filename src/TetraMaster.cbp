@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="TetraMaster" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/TetraMaster" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="bin/" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/TetraMaster" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="bin/" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Option parameters="-music" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-w" />
+			<Add option="`sdl-config --static-libs`" />
+		</Compiler>
+		<Linker>
+			<Add option="`sdl-config --static-libs`" />
+			<Add option="-lSDLmain -lSDL_image -lSDL" />
+			<Add option="-lSDL_gfx -lSDL_mixer" />
+			<Add option="-lrt" />
+		</Linker>
+		<Unit filename="Card_select.cpp" />
+		<Unit filename="Card_select.h" />
+		<Unit filename="./Enemies.cpp" />
+		<Unit filename="./Enemies.h" />
+		<Unit filename="./FontSystem.cpp" />
+		<Unit filename="./FontSystem.h" />
+		<Unit filename="Game.cpp" />
+		<Unit filename="Game.h" />
+		<Unit filename="Graph_FX.cpp" />
+		<Unit filename="Graph_FX.h" />
+		<Unit filename="Intro.cpp" />
+		<Unit filename="Intro.h" />
+		<Unit filename="./Lang.cpp" />
+		<Unit filename="./Lang.h" />
+		<Unit filename="./LoadSave.cpp" />
+		<Unit filename="./LoadSave.h" />
+		<Unit filename="./Magazine.cpp" />
+		<Unit filename="./Magazine.h" />
+		<Unit filename="Player.h" />
+		<Unit filename="SoundSystem.cpp" />
+		<Unit filename="SoundSystem.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="./new_player.cpp" />
+		<Unit filename="./new_player.h" />
+		<Unit filename="res.cpp" />
+		<Unit filename="res.h" />
+		<Unit filename="system.cpp" />
+		<Unit filename="system.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
